@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# DeFi Staking Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project has the functionality of Staking a token, Withdrawing the token and claimng your reward token. It also autogenerte the reward token based on the time you staked the staking token. 
 
 Try running some of the following tasks:
 
